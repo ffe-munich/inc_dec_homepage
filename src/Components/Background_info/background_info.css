@@ -1,0 +1,56 @@
+.intro{
+    display: flex;
+    height: 77vh;
+    margin-top: 1.5rem;
+}
+
+.i-left{
+    display: flex;
+    position: relative;
+    flex:1;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+
+.i-name{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.i-name>:nth-child(1){
+    color: var(--black);
+    font-weight: bold ;
+    font-size: 1rem;
+    margin-left: 0rem;
+    position: relative;
+    text-align: center;
+
+
+}
+
+.i-name>:nth-child(2){
+    
+    
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-right: 6rem;
+    margin-left: 6rem;
+
+}
+
+.i-name>:nth-child(3){
+    font-size: 1rem;
+   
+    margin-right: 25rem;
+    margin-left: 27rem;
+}
+
+
+
+
+
+
+
+
