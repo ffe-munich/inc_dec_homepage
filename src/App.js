@@ -3,6 +3,7 @@ import './App.css'
 import Intro from "./Components/Background_info/background_info";
 import Services from "./Components/Services/Services";
 import Services_2 from "./Components/Services_2/Services_2";
+import React from "react";
 
 
 

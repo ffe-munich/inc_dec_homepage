@@ -42,3 +42,11 @@
 .app span{
   margin-left: 10rem;
 }
+body, html { 
+  font-family: 'Vazir', sans-serif;
+}
+
+.font-link {
+  font-family: 'Hanalei Fill', cursive;
+}
+
