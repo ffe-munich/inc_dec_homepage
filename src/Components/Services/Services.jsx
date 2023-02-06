@@ -15,7 +15,7 @@ import ARROW from '../../img/box_1_4.png';
 import IMG2 from '../../img/box_1_1.png';
 import IMG3 from '../../img/box_1_2.png';
 import IMG4 from '../../img/box_1_3.png';
-import IMG5 from '../../img/box_2_1.png';
+import IMG5 from '../../img/Inc.png';
 import IMG6 from '../../img/box_2_2.png';
 import IMG7 from '../../img/box_3_1.png';
 import IMG8 from '../../img/box_3_2.png';
@@ -42,9 +42,9 @@ const Services = () => {
                 img3 = {IMG3}
                 img4 = {IMG4}
 
-                text1 = {"There are two nodes with generators on both and a load on the second node (generators dashboard)/loads on both and a generator on the first node(load dashboard)."}
-                text2 = {"Between the nodes there is a limited transmission capacity."}
-                text3 = {"Electricity trading happens via a central market mechanism on the spot market."}
+                text1 = {"There are two nodes with generators on both and a load on the second node (generators dashboard)/loads on both and a generator on the first node(load dashboard)"}
+                text2 = {"Between the nodes there is a limited transmission capacity"}
+                text3 = {"Electricity trading happens via a central market mechanism on the spot market"}
                 />
             </div>
 
@@ -107,12 +107,14 @@ const Services = () => {
                 img2 = {IMG13}
                 img3 = {IMG14}
                 
-                text_1_1={"1-Statistic Non-Attribution: "}
+                text_1_1={"1.Statistic:"}
+                text_1_1_1 =  {"Non-Attribution"}
                 text_1_2={"To increase th risk of inc-dec gaming,actors are not distributed randomly on the redispatch market, even if their lies below the bid of their competitors."}
-                text_2_1={"2-Monitoring and Sanctions: "}
+                text_2_1={"2.Monitoring:"}
+                text_2_1_1 ={"Sanctions "}
                 text_2_2={"Systematic deviations in times of network congestions are monitored. They are detected with a probability p and in this case sanctioned with a sanction of XX."}
-                text_3_1={"3-Capacity Pricing: "}
-                text_3_2 = {"One or more actors can be selected, who are not remunerated directly for a change in power flows but receive a fixed compensation for the provision of their flexibility for a certain time period. When they are redispatched, they are compensated by the spot market price in case of updispatch/need to pay the spot market price in case of downdispatch."}
+                text_3_1={"3.Capacity Pricing: "}
+                text_3_2 = {"One or more actors can be selected, who are not remunerated directly for a change in power flows but receive a fixed compensation for the provision of their flexibility for a certain time period. When they are redispatched, they are compensated by the spot market price in case of updispatch/need to pay the spot market price in case of downdispatch. "}
               
                 />
             </div>
