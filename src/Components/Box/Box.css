@@ -32,7 +32,10 @@
 
 
 
+.card_5{
+    height: 13rem;
 
+}
 .card_1{
     text-align: left;
 }
@@ -102,41 +105,41 @@
 
 .card_3 span:nth-child(2){
     font-weight: bold;
-    margin-left: -19.5rem;
+    margin-left: -8.75rem;
     margin-top: -4.3rem;
 }
 
 .card_3 span:nth-child(3){
     
-    margin-left:5.5rem;
+    margin-left:15.8rem;
     margin-top: -2rem;
 }
 
 .card_3 span:nth-child(4){
     font-weight: bold;
-    margin-left: -15.5rem;
+    margin-left: -12.5rem;
     margin-top: 0rem;
 }
 .card_3 span:nth-child(5){
-    margin-left: 17rem;
+    margin-left: 18rem;
     margin-top: -2rem;
 }
 .card_3 span:nth-child(6){
     font-weight: bold;
-    margin-left: -14rem;
+    margin-left: -13.9rem;
     margin-top: -0.5rem;
 }
 
 .card_3 span:nth-child(7){
     
-    margin-left: 8rem;
+    margin-left: 7.3rem;
     margin-top: -2rem;
 }
 
 .card_3 span:nth-child(8){
     
     margin-left: -25rem;
-    margin-top: -6.9rem;
+    margin-top: -7.4rem;
 }
 .card_3 span:nth-child(9){
     
@@ -180,31 +183,31 @@
 
 .card_4 span:nth-child(3){
     font-weight: bold;
-    margin-left: -15rem;
+    margin-left: -13.5rem;
     margin-top: -5rem;
 }
 
 .card_4 span:nth-child(4){
-    margin-left: 17.3rem;
+    margin-left: 17.9rem;
     margin-top: -2rem;
 }
 
 .card_4 span:nth-child(5){
     font-weight: bold;
-    margin-left: -17.5rem;
+    margin-left: -11.5rem;
     margin-top: -0.2rem;
 }
 
 .card_4 span:nth-child(6){
  
-    margin-left: 14.8rem;
+    margin-left: 17.8rem;
     margin-top: -2rem;
 }
 
 .card_4 span:nth-child(7){
  
     margin-left: -25rem;
-    margin-top: -7.1rem;
+    margin-top: -7.6rem;
 }
 
 .card_4 span:nth-child(8){
@@ -243,13 +246,15 @@
 
 .box-1-left{
     position: relative;
-    margin-right: 25rem;
-    margin-bottom: 20rem;
+    margin-right: 35rem;
+    margin-bottom: 50rem;
+    margin-top: -1.0rem;
+
     
 }
 
 .box-1-left>*{
-    position: relative;
+    position: absolute;
     z-index: 1;
 }
 
@@ -259,16 +264,16 @@
 }
 
 .box-1-center span:nth-child(1){
-    top: -13rem;
+    top: -13.5rem;
     left:-4rem
 }
 .box-1-center span:nth-child(2){
-    top: -10.5rem;
+    top: -11rem;
     left:-11rem
 }
 
 .box-1-center span:nth-child(3){
-    top: -8.7rem;
+    top: -9.2rem;
     left:-3.5rem
 }
 
@@ -298,51 +303,62 @@
 
 .card_5 span:nth-child(3){
     font-weight: bold;
-    margin-left: -12rem;
+    margin-left: -10.8rem;
     margin-top: -8rem;
 }
-
 .card_5 span:nth-child(4){
-    margin-left: 20.3rem;
-    margin-top: -1.95rem;
+    font-weight: bold;
+    margin-left: -13.3rem;
+    margin-top: -1rem;
 }
 
 .card_5 span:nth-child(5){
-    font-weight: bold;
-    margin-left: -11.5rem;
-    margin-top: -0.2rem;
+    margin-left: 17.7rem;
+    margin-top: -3.1rem;
 }
 
 .card_5 span:nth-child(6){
- 
-    margin-left: 20.7rem;
-    margin-top: -2rem;
+    font-weight: bold;
+    margin-left: -12.5rem;
+    margin-top: -0.2rem;
 }
 
 .card_5 span:nth-child(7){
     font-weight: bold;
-    margin-left: -15rem;
-    margin-top: -0.5rem;
+    margin-left: -11.3rem;
+    margin-top: -1rem;
 }
 
 .card_5 span:nth-child(8){
  
     margin-left: 17.5rem;
-    margin-top: -1.9rem;
+    margin-top: -3rem;
 }
 
 .card_5 span:nth-child(9){
- 
-    margin-left: -24.8rem;
-    margin-top: -13.7rem;
+    font-weight: bold;
+    margin-left: -14.5rem;
+    margin-top: -0.5rem;
 }
 
 .card_5 span:nth-child(10){
  
+    margin-left: 17.3rem;
+    margin-top: -2.0rem;
+}
+
+.card_5 span:nth-child(11){
+ 
+    margin-left: -24.8rem;
+    margin-top: -14rem;
+}
+
+.card_5 span:nth-child(12){
+ 
     margin-left: -24.8rem;
     margin-top: 1rem;
 }
-.card_5 span:nth-child(11){
+.card_5 span:nth-child(13){
  
     margin-left: -24.8rem;
     margin-top: .5rem;
@@ -398,6 +414,3 @@
     font-size: 17px;
 }
 
-.underline{
-    text-decoration: underline;
-}
